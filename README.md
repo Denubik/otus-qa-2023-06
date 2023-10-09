@@ -2,6 +2,3 @@
 
 <<<<<<< HEAD
 Description: this is simple project for learning purposes.
-=======
-Description: this is simple project for learning purposes.1
->>>>>>> new
