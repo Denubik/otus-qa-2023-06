@@ -2,4 +2,4 @@
 
 <<<<<<< HEAD
 Description: this is simple project for learning purposes. 
-NEW INFO
+NEW INFO MORE INFO
